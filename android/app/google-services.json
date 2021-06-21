@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "257354489829",
+    "project_id": "krispace-67d2f",
+    "storage_bucket": "krispace-67d2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257354489829:android:0a6b9e5b21fb0e089c590c",
+        "android_client_info": {
+          "package_name": "com.tekzilla.krispace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257354489829-ob3d0ff8m5t5m45o7svsdbas5ruho85h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tekzilla.krispace",
+            "certificate_hash": "fe68bf1d3f0532db76377fbc77793c2faa450580"
+          }
+        },
+        {
+          "client_id": "257354489829-e812udijqnlb62sar2jj88j8pmr55c1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXHFR0q2cxk0Mq-1iUZOosuD0KGGfvOek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257354489829-e812udijqnlb62sar2jj88j8pmr55c1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
